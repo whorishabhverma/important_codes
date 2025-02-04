@@ -1,4 +1,5 @@
 //https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1
+/*
 class Island{
 vector<int> drow = {-1,-1,0,1,1,1,0,-1};
 vector<int> dcol = {0,1,1,1,0,-1,-1,-1};
@@ -46,3 +47,5 @@ int numIslands(vector<vector<char>>& grid) {
     return cnt;
 }
 };
+
+*/
