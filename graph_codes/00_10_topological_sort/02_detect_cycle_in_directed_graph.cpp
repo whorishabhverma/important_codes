@@ -1,0 +1,1 @@
+agr kisi graph ka topo sort nikal aaye to usme cycle nhi hogi 
